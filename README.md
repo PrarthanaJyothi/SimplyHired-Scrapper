@@ -1,6 +1,6 @@
 # SimplyHired-Scrapper
 
-This script searches for jobs on 'https://www.simplyhired.co.in/' and saves the results to a CSV file.
+This script searches for jobs on https://www.simplyhired.co.in/ and saves the results to a CSV file.
 
 Usage
 
