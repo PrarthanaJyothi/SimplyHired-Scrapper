@@ -6,13 +6,14 @@ Usage
 
 To use the script, you will need to provide the following information:
 
-The job title you are looking for
+  * The job title you are looking for
 
-The location where you are looking for a job
+  * The location where you are looking for a job
 
 Once you have provided this information, the script will start searching for jobs. The results will be saved to a CSV file called 'results.csv'.
 
-Example
+Example:
+
 The following example shows how to use the script to search for jobs in the "Software Engineer" role in the "San Francisco" area:
 
 python job_search.py "Software Engineer" "San Francisco"
