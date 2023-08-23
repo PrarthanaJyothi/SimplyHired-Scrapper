@@ -34,3 +34,4 @@ The script requires the following Python libraries:
   * requests
   * bs4
   * csv
+  * datetime
